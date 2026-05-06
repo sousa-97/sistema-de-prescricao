@@ -17,7 +17,17 @@
 ![](https://github.com/sousa-97/sistema-de-prescricao/blob/main/Captura%20de%20tela%202026-02-24%20101949.png?raw=true)
 
 ### Tela de busca de pacientes
-![](https://github.com/sousa-97/sistema-de-prescricao/blob/main/Captura%20de%20tela%202026-02-24%20102006.png?raw=true)
+![](https://github.com/sousa-97/sistema-de-prescricao/blob/main/2026-05-06%2012_45_37-Lista%20de%20Interna%C3%A7%C3%B5es.png?raw=true)
 
+### Tela da Internação
+![](https://github.com/sousa-97/sistema-de-prescricao/blob/main/2026-05-06%2012_45_50-Lista%20de%20Interna%C3%A7%C3%B5es.png?raw=true)
 
+### Tela de Prescrição
+![](https://github.com/sousa-97/sistema-de-prescricao/blob/main/2026-05-06%2013_07_34-Lista%20de%20Interna%C3%A7%C3%B5es.png?raw=true)
+
+### Tela de Transferência de Setor/Leito
+![](https://github.com/sousa-97/sistema-de-prescricao/blob/main/2026-05-06%2013_08_12-Lista%20de%20Interna%C3%A7%C3%B5es.png?raw=true)
+
+### Tela de Alta
+![](https://github.com/sousa-97/sistema-de-prescricao/blob/main/2026-05-06%2013_08_33-Lista%20de%20Interna%C3%A7%C3%B5es.png?raw=true)
 
